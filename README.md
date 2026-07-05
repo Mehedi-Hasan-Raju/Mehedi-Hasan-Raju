@@ -55,15 +55,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi-Hasan-Raju&theme=github-dark&hide_border=true" width="100%"/>
 </p>
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mehedi-Hasan-Raju&theme=github-dark-blue&hide_border=true"/>
-
-</p>
 
 ---
 ## 🐍 Contribution 
@@ -73,6 +64,11 @@
 </p>
 ---
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Mehedi-Hasan-Raju&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
+---
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
