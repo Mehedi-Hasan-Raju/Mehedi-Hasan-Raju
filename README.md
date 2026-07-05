@@ -66,7 +66,7 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mehedi-Hasan-Raju/Mehedi-Hasan-Raju/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
