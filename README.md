@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan-raju&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan-raju" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-hasan-raju" alt="mehedi-hasan-raju" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-Hasan-Raju)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Mern Stack Project**
 
@@ -29,5 +29,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan-raju&" alt="mehedi-hasan-raju" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mehedi-Hasan-Raju&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
