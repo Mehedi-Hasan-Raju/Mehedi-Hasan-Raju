@@ -54,6 +54,15 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   6 hrs 19 mins         ███████████████▓░░░░░░░░░   62.53 %
+JavaScript   2 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+Bash         51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+JSON         30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Python       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
