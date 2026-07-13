@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mehedi-Hasan-Raju&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
@@ -47,6 +48,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,firebase,git,github,docker,postman,vscode,figma"/>
 
 </p>
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
