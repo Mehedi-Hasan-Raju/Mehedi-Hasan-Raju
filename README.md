@@ -56,6 +56,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 10 hrs 4 mins
+
 TypeScript   6 hrs 19 mins         ███████████████▓░░░░░░░░░   62.53 %
 JavaScript   2 hrs 11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
 Bash         51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
