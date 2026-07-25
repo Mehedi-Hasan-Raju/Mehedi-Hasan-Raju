@@ -120,7 +120,7 @@ Git Config   37 mins               █▒░░░░░░░░░░░░░
 ## ⚡ Fun Fact
 
 > I enjoy solving real-world problems by building scalable and user-friendly web applications.
-
+![Project Demo](assets/demo.gif)
 ---
 
 <p align="center">
