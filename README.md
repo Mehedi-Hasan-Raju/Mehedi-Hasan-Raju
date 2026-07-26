@@ -19,6 +19,7 @@
 - 🤝 Open to Internship & Open Source Collaboration
 - 💬 Ask me about **React, Node.js, Express, MongoDB & TypeScript**
 - 📧 **Email:** mehedihasanraju727@outlook.com
+- **My Portfolio:** https://mehedi-hasan-raju.netlify.app/
 
 ---
 
