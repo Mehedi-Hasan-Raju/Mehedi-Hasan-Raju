@@ -57,13 +57,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 58 mins
+Total Time: 3 hrs 58 mins
 
-TypeScript   3 hrs                 ███████████████░░░░░░░░░░   60.44 %
-Prisma       1 hr 20 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Bash         30 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Git          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+TypeScript   3 hrs 14 mins         ████████████████████▒░░░░   81.50 %
+Prisma       21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Bash         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+Git          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
