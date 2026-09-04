@@ -14,7 +14,7 @@
 
 - 🎓 Final Year B.Sc. in Computer Science & Engineering
 - 💻 Passionate Full Stack MERN Developer
-- 🌱 Currently learning **Next.js, PostgreSQL & Docker**
+- 🌱 Currently learning **LLMs | RAG | AI Agents**
 - 🚀 Building scalable and responsive web applications
 - 🤝 Open to Internship & Open Source Collaboration
 - 💬 Ask me about **React, Node.js, Express, MongoDB & TypeScript**
