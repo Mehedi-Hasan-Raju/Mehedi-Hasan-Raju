@@ -34,7 +34,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:mehedi.raju.dev@gmail.com">
+<a href="mailto:sheikhraju112244@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
