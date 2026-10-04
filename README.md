@@ -94,18 +94,20 @@ CSS          15 mins               ▓░░░░░░░░░░░░░░
 | Project | Description | Tech |
 |----------|-------------|------|
 | 🏨 Hotel Booking Platform | Full Stack Hotel Booking Website | MERN |
-| 💼 Job Portal & Gig Finder | Job Search & Recruitment Platform | MERN |
+| 🏠 Langauge Larning Platform & Agency | Learn langauge with AI & Agency Service | TypeScript & PostgreSQL |
 | ⚡ Raw Node.js REST API | REST API with TypeScript | Node.js |
 | 🏠 React weather app | weather information | React |
+| 💼 Job Portal & Gig Finder | Job Search & Recruitment Platform | MERN |
+| 💼 Car Rental Website | Car Renting website  | TypeScript & PostgreSql |
 
 ---
 
 ## 📚 Currently Learning
 
 - Next.js
-- PostgreSQL
 - Docker
 - System Design
+- Load Balancing
 
 ---
 
@@ -113,7 +115,7 @@ CSS          15 mins               ▓░░░░░░░░░░░░░░
 
 - 🚀 Software Engineering Internship
 - 🌍 Open Source Contributions
-- ⭐ Build Production Ready Applications
+- ⭐ Build Production-Ready Applications
 - ☁️ Learn AWS & Cloud Deployment
 
 ---
